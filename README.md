@@ -1,4 +1,4 @@
-[![MasterHead](https://w.wallha.com/ws/12/vnEsqF6H.png)
+![MasterHead](https://w.wallha.com/ws/12/vnEsqF6H.png)
 
 <h1 align="center">Hi 👋, I'm Cavid Mamedov</h1>
 <h3 align="center">Frontend developer from Azerbaijan</h3>
