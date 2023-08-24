@@ -1,4 +1,6 @@
-![MasterHead](https://w.wallha.com/ws/12/vnEsqF6H.png)
+<a href=#><img src="contributions.svg"></a>
+
+
 
 <h1 align="center">Hi 👋, I'm Cavid Mamedov</h1>
 <h3 align="center">Frontend developer from Azerbaijan</h3>
