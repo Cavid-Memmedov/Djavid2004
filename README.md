@@ -1,9 +1,7 @@
 <a href=#><img src="contributions.svg"></a>
 
-
-
-<h1 align="center">Hi 👋, I'm Cavid Mamedov</h1>
-<h3 align="center">Frontend developer from Azerbaijan</h3>
+<h1 align="center">Hi 👋, I'm Javid Mammadov</h1>
+<h3 align="center">FrontEnd Developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5769fc401b631bab1addb2ab%2f1541580611624-TE64QGKRJG8SWAIUS7NS%2fcoding-freak.gif&ehk=KP15ljD%2fWrS1v6Cdn8FWrhB6ABhlz%2bmgsJsz2hJ7oIE%3d"
 - 🌱 I’m currently learning **I learning full-stack programming.**
 
